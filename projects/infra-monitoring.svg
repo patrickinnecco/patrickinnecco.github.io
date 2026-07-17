@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="400" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">Preview de infraestrutura e incidentes</title>
+  <desc id="desc">Mapa de infraestrutura com servidores, alertas e monitoramento de disponibilidade.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#120f16"/>
+      <stop offset="1" stop-color="#3f1827"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="400" rx="28" fill="url(#bg)"/>
+  <rect x="54" y="58" width="532" height="284" rx="20" fill="#161b22" stroke="#4b2735"/>
+  <path d="M170 190h108M362 190h108M320 132v116" stroke="#d96b6b" stroke-width="4" stroke-linecap="round" opacity=".55"/>
+  <g fill="#0d1117" stroke="#d96b6b" stroke-width="2">
+    <rect x="112" y="148" width="116" height="84" rx="16"/>
+    <rect x="262" y="90" width="116" height="84" rx="16"/>
+    <rect x="412" y="148" width="116" height="84" rx="16"/>
+    <rect x="262" y="232" width="116" height="84" rx="16"/>
+  </g>
+  <g fill="#d96b6b">
+    <circle cx="170" cy="190" r="14"/>
+    <circle cx="320" cy="132" r="14"/>
+    <circle cx="470" cy="190" r="14"/>
+    <circle cx="320" cy="274" r="14"/>
+  </g>
+  <g fill="#30363d">
+    <rect x="132" y="250" width="86" height="10" rx="5"/>
+    <rect x="132" y="274" width="132" height="10" rx="5"/>
+    <rect x="424" y="250" width="92" height="10" rx="5"/>
+    <rect x="424" y="274" width="68" height="10" rx="5"/>
+  </g>
+  <path d="M470 102l16 28h-32z" fill="#ffc107"/>
+</svg>

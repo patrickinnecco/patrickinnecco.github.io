@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="400" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">Preview do SIPEC</title>
+  <desc id="desc">Interface de prontuario eletronico com identidade visual vermelha do SIPEC.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1b1113"/>
+      <stop offset="1" stop-color="#4b2024"/>
+    </linearGradient>
+    <linearGradient id="node" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f1d7d8"/>
+      <stop offset="1" stop-color="#b65a5d"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="400" rx="28" fill="url(#bg)"/>
+  <path d="M130 122h380v156H130z" fill="#141619" stroke="#944447" stroke-width="2"/>
+  <path d="M200 200h240M320 145v110" stroke="#b65a5d" stroke-width="3" stroke-linecap="round" opacity=".48"/>
+  <g fill="#191b1f" stroke="#b65a5d">
+    <rect x="108" y="86" width="156" height="82" rx="18"/>
+    <rect x="376" y="86" width="156" height="82" rx="18"/>
+    <rect x="108" y="232" width="156" height="82" rx="18"/>
+    <rect x="376" y="232" width="156" height="82" rx="18"/>
+  </g>
+  <g font-family="JetBrains Mono, Consolas, monospace" font-size="26" font-weight="700" fill="url(#node)">
+    <text x="146" y="137">ADMIS.</text>
+    <text x="420" y="137">AIH</text>
+    <text x="152" y="283">CID</text>
+    <text x="398" y="283">PRONT.</text>
+  </g>
+  <circle cx="320" cy="200" r="34" fill="url(#node)"/>
+  <path d="M305 200l11 11 22-25" fill="none" stroke="#141619" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
