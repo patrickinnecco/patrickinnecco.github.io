@@ -1,6 +1,6 @@
 self.__BUILD_MANIFEST = {
   "/": [
-    "static/chunks/2lrrstb8antfr.js"
+    "static/chunks/1y78i6zriccfz.js"
   ],
   "/_error": [
     "static/chunks/2nb37ozlqqhj7.js"
@@ -18,7 +18,7 @@ self.__BUILD_MANIFEST = {
     "static/chunks/450ij1jk0pvkv.js"
   ],
   "/projects": [
-    "static/chunks/42-ycf0ws3_sg.js"
+    "static/chunks/2h69gzx4la5ww.js"
   ],
   "/projects/personal": [
     "static/chunks/1kkc-1suu49ye.js"
@@ -27,7 +27,7 @@ self.__BUILD_MANIFEST = {
     "static/chunks/252r4i3g-wuhg.js"
   ],
   "/settings": [
-    "static/chunks/41fdak6-c7gsx.js"
+    "static/chunks/38vk-4ud7kb9j.js"
   ],
   "/studies": [
     "static/chunks/0m1ai0tzea2qe.js"
